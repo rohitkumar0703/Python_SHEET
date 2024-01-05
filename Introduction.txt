@@ -1,0 +1,43 @@
+What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+It is used for:
+    .Web Development 
+    .Software Development
+    .Mathematics
+    .System scripting
+
+Why is Python?
+
+   . Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+   . Python has a simple syntax similar to the English language.
+   . Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+   . Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+   . Python can be treated in a procedural way, an object-oriented way or a functional way.   
+   
+Multi words Variable Names 
+
+Variable names with more than one word can be difficult to read.
+There are several techniques you can use to make them more readable:
+
+Camel Case
+Each word, except the first, Start with a capital letter:
+myVariableName = "Rohit"
+
+Pascal Case
+Each word starts with a capital letter:
+MyVariableName = "Rohit"
+
+Snake Case
+Each word is separated by an underscore character:
+my_variable_name = "John"
+
+GLOBAL VARIABLE 
+#Variables that are created outside of a function
+(as in all of the examples above) are known as global variables.
+Global variables can be used by everyone, both inside of functions and outside.
+
+The Global Keyword
+Normally, when you create a variable inside a function, 
+that variable is local, and can only be used inside that function.
+To create a global variable inside a function, you can use the global keyword.

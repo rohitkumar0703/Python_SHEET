@@ -1,0 +1,9 @@
+Python has a set of built-in math functions, including an extensive math module,
+ that allows you to perform mathematical tasks on numbers.
+
+ Built-in Math Functions
+ The Math Module
+Python has also a built-in module called math, which extends the list of mathematical functions.
+
+To use it, you must import the math module:
+When you have imported the math module, you can start using methods and constants of the module.
